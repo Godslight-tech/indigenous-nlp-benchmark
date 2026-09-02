@@ -7,34 +7,31 @@
 
 | Name | Student ID | Institutional Email | Contribution |
 |---|---|---|---|
-| Uriah Tswanya (Group Lead) | U22/FNS/CSC/1274 | | Coordination, data cleaning, notebook build, report |
-| Abdullahi Abba Ladan | U22/FNS/CSC/1355 | | |
-| Adua Usman Mohammed | U22/FEA/SED/1079 | | |
-| Ahmad Aliyu | U22/FEA/SED/1294 | | |
-| Aliyu Ahmad | U22/FNS/CSC/1060 | | |
-| Aliyu Salihu Musa | U22/FNS/CSC/1159 | | |
-| Baba Kabiru Alhaji | U22/FEA/SED/1347 | | |
-| Fatima Bello | U22/FEA/SED/1060 | | |
-| Haruna Suleiman | U22/FEA/SED/1197 | | |
-| Hassan Shehu | U22/FEA/SED/1431 | | |
-| Hassan Shehu | U22/FEA/SED/1413 | | |
-| Ibrahim Asmau Umar | U22/FNS/CSC/1153 | | Data contributed: proverbs/phrases (early), plus 13 new phrases (final batch) |
-| Bima Yusuf | U22/FNS/CSC/1299 | | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
-| Ibrahim Hauwa | U22/FNS/CSC/1258 | | |
-| Idris Umar Muhammed | U22/FNS/CSC/1305 | | |
-| Isyaku Ibrahim Makun | U22/FEA/SED/1361 | | |
-| Mohammed Ahmed Liman | U22/FEA/SED/1245 | | |
-| Mohammed Idris | U22/FNS/CSC/1110 | | |
-| Muhammad Ahmad Tijjani | U22/FNS/CSC/1216 | | |
-| Nagenu Muhammed Yusuf | U22/FNS/CSC/1148 | | |
-| Usman Abubakar Sadiq | U22/FNS/CSC/1259 | | |
-| Yahaya Kudu Nagya | U22/FNS/CSC/1301 | | |
-| Yusuf Mohammed Yusuf | U23/FEA/SED/2010 | | |
+| Uriah Tswanya (Group Lead) | U22/FNS/CSC/1274 | uriahs.tswanya@gmail.com | Group coordination; collected/verified all data batches; identified and excluded a suspected templated/non-authentic submission; built, debugged, and ran the full notebook (Parts 1-4); wrote and compiled group_report.md; performed all Git commits, branch management, push, and PR submission |
+| Allahyayi Dennis | U22/FNS/CSC/1353 | allahyayidennis1353@gmail.com | |
+| Abdulkadir Usman Kwatu | U22/FNS/CSC/1270 | Abdulkadirkwatu@gmail.com | |
+| Abdulkadir Idris Ibn | U22/FNS/CSC/1211 | shakallo04@gmail.com | |
+| Aliyu Ahmad | U22/FNS/CSC/1060 | aliyuahmadutme@gmail.com | |
+| Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com | |
+| Idris Umar Muhammed | U22/FNS/CSC/1305 | idrisumarmuhammed4@gmail.com | |
+| Nagenu Muhammed Yusuf | U22/FNS/CSC/1148 | nagenumuhammed@gmail.com | |
+| Habibu Musa | U22/FNS/CSC/1215 | musahabibu05@gmail.com | |
+| Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
+| Yahaya Aliyu Gabadna | U22/FNS/CSC/1337 | aliyugabadna881@gmail.com | |
+| Usman Abubakar Sadiq | U22/FNS/CSC/1259 | abbauthman2263@gmail.com | |
+| Jeremiah Jacob | U22/FNS/CSC/1227 | jerjacob558@gmail.com | |
+| Ibrahim Asmau Umar | U22/FNS/CSC/1153 | ibrahimasmau309@gmail.com | Data contributed: proverbs/phrases (early), plus 13 new phrases (final batch) |
+| Abdulhayyu Abubakar | U22/FNS/CSC/1022 | abdulhayyuabubakar630@gmail.com | Data contributed: 9 sentences (Ta Bida history summary, verified) |
+| Usman Musa | U22/FNS/CSC/1096 | uthmanyt@gmail.com | |
+| Yusuf Zayyad B | U22/FNS/CSC/1152 | yusufzayyadb0019@gmail.com | |
+| Yahaya Kudu Nagya | U22/FNS/CSC/1301 | Yahayanagya4@gmail.com | |
+| Ibrahim Hauwa | U22/FNS/CSC/1258 | ibhauwa05@gmail.com | |
+| Muhammad Ahmad Tijjani | U22/FNS/CSC/1216 | seedillah001@gmail.com | |
+| Matthew David Ochai | U22/FNS/CSC/1255 | davidmatthew8908@gmail.com | |
 
-*Note to group lead: fill in institutional emails, and update the "Contribution" column for whichever
-specific teammates sent proverbs, the letter, or phrasebook batches, once known. Rows left blank
-reflect members who had not responded with data or confirmed tasks as of submission time — this is
-stated plainly here rather than misrepresented, per the group's decision to prioritize honesty.*
+*Note to group lead: rows left blank in the Contribution column reflect members who had not sent*
+*data as of submission time — stated plainly here rather than misrepresented, per the group's*
+*decision to prioritize honesty.*
 
 ## 2. Data Provenance & Collection Method
 
