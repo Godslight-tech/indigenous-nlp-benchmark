@@ -22,7 +22,7 @@ hi# Group Report — Indigenous Language AI Benchmark
 | Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
 | Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) Confirmed |
 | Deborah Yusuf | U22/FNS/CSC/1052 |  |  |
-| Emmanuel Kelvin | U22/FEA/SED/1399 |  |  |
+| Emmanuel Kelvin | U22/FEA/SED/1399 |  emmanuelkelvin584@gmail.com |  |
 | Fatima Bello | U22/FEA/SED/1060 |  |  |
 | Habibu Musa | U22/FNS/CSC/1215 | musahabibu05@gmail.com |  |
 | Haruna Suleiman | U22/FEA/SED/1197 |  |  |
