@@ -204,3 +204,11 @@ $ git log --oneline
 **All Parts Complete**: Yes / No  
 **Ready for Submission**: Yes / No
 hhhh
+contribution for dataset for gbagyi {
+  "id": 1,
+  "language": "Gbagyi",
+  "text": "Adamulo",
+  "translation": "I am happy",
+  "audio": "audio/adamulo_001.wav",
+  "source": "native speaker"
+}
