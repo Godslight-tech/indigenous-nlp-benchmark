@@ -18,7 +18,14 @@ hi# Group Report — Indigenous Language AI Benchmark
 | Aliyu Salihu Musa | U22/FNS/CSC/1159 |  |  |
 | Allahyayi Dennis | U22/FNS/CSC/1353 | allahyayidennis1353@gmail.com |  |
 | Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com |  |
-| Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  |
+| Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  | contribution to dataset for gbagyi {
+  "id": 1,
+  "language": "Gbagyi",
+  "text": "Adamulo",
+  "translation": "I am happy",
+  "audio": "audio/adamulo_001.wav",
+  "source": "native speaker"
+}
 | Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
 | Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) Confirmed |
 | Deborah Yusuf | U22/FNS/CSC/1052 |  |  |
