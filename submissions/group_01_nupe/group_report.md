@@ -7,14 +7,24 @@
 
 | Name | Student ID | Institutional Email | Contribution |
 |---|---|---|---|
+| Abdulhayyu Abubakar | U22/FNS/CSC/1022 | abdulhayyuabubakar630@gmail.com | Data contributed: 9 sentences (Ta Bida history summary, verified) |
+| Abdulkadir Idris Ibn | U22/FNS/CSC/1211 | shakallo04@gmail.com |  |
 | Abdullahi Abba Ladan | U22/FNS/CSC/1355 |  |  |
+| Abraham David Oshorame | U22/FNS/CSC/1326 |  |  |
 | Adua Usman Mohammed | U22/FEA/SED/1079 |  |  |
 | Ahmad Aliyu | U22/FEA/SED/1294 |  |  |
+| Alex Luka | U22/FEA/SED/1064 |  |  |
 | Aliyu Ahmad | U22/FNS/CSC/1060 | aliyuahmadutme@gmail.com |  |
 | Aliyu Salihu Musa | U22/FNS/CSC/1159 |  |  |
+| Allahyayi Dennis | U22/FNS/CSC/1353 | allahyayidennis1353@gmail.com |  |
+| Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com |  |
+| Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  |
 | Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
 | Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
+| Deborah Yusuf | U22/FNS/CSC/1052 |  |  |
+| Emmanuel Kelvin | U22/FEA/SED/1399 |  |  |
 | Fatima Bello | U22/FEA/SED/1060 |  |  |
+| Habibu Musa | U22/FNS/CSC/1215 | musahabibu05@gmail.com |  |
 | Haruna Suleiman | U22/FEA/SED/1197 |  |  |
 | Hassan Shehu | U22/FEA/SED/1431 |  |  |
 | Hassan Shehu | U22/FEA/SED/1413 |  |  |
@@ -22,29 +32,33 @@
 | Ibrahim Hauwa | U22/FNS/CSC/1258 | ibhauwa05@gmail.com |  |
 | Idris Umar Muhammed | U22/FNS/CSC/1305 | idrisumarmuhammed4@gmail.com |  |
 | Isyaku Ibrahim Makun | U22/FEA/SED/1361 |  |  |
+| Jeremiah Jacob | U22/FNS/CSC/1227 | jerjacob558@gmail.com |  |
+| Lawal Kehinde Abdulafeez | U22/FNS/CSC/1235 |  |  |
+| Matthew David Ochai | U22/FNS/CSC/1255 | davidmatthew8908@gmail.com |  |
 | Mohammed Ahmed Liman | U22/FEA/SED/1245 |  |  |
 | Mohammed Idris | U22/FNS/CSC/1110 |  |  |
 | Muhammad Ahmad Tijjani | U22/FNS/CSC/1216 | seedillah001@gmail.com |  |
 | Nagenu Muhammed Yusuf | U22/FNS/CSC/1148 | nagenumuhammed@gmail.com |  |
+| Saadu Sulyman Bukola | U22/FEA/SED/1148 |  |  |
+| Sanni Ridwan | U22/FEA/SED/1234 |  |  |
 | Uriah Tswanya (Group Lead) | U22/FNS/CSC/1274 | uriahs.tswanya@gmail.com | Group Lead — coordination; collected/verified all data batches; identified and excluded a suspected templated/non-authentic submission; built, debugged, and ran the full notebook (Parts 1-4); wrote and compiled group_report.md; performed all Git commits, branch management, push, and PR submission |
 | Usman Abubakar Sadiq | U22/FNS/CSC/1259 | abbauthman2263@gmail.com |  |
+| Usman Musa | U22/FNS/CSC/1096 | uthmanyt@gmail.com |  |
+| Yahaya Aliyu Gabadna | U22/FNS/CSC/1337 | aliyugabadna881@gmail.com |  |
 | Yahaya Kudu Nagya | U22/FNS/CSC/1301 | Yahayanagya4@gmail.com |  |
+| Yunusa Muhammad Abba | U22/FNS/CSC/1082 |  |  |
 | Yusuf Mohammed Yusuf | U23/FEA/SED/2010 |  |  |
+| Yusuf Zayyad B | U22/FNS/CSC/1152 | yusufzayyadb0019@gmail.com |  |
 
-*Note: this table lists only the 23 group members confirmed as Nupe by tribe on the official*
-*Group 01 roster, per instruction. One entry from an earlier draft, "Abdulkadir Usman Kwatu"*
-*(U22/FNS/CSC/1270), was confirmed by the group lead as not belonging to the group and has been*
-*removed entirely.*
-
-*Exception worth noting: Abdulhayyu Abubakar (U22/FNS/CSC/1022) is listed as Hausa by tribe on the*
-*official roster and is therefore not included in the table below, despite having contributed 9*
-*verified sentences (the Ta Bida history summary) to our corpus — see Section 2 for that data's*
-*provenance. His data remains in the dataset; only his membership row is affected by the strict*
-*Nupe-tribe filter applied here.*
+*Note: this table lists all 42 members of the official Group 01 (Nupe track) roster, confirmed*
+*directly against the class-issued member list, irrespective of individual tribe/ethnicity — since*
+*Group 01 as a whole is assigned to the Nupe language track. One entry from an earlier draft,*
+*"Abdulkadir Usman Kwatu" (U22/FNS/CSC/1270), was confirmed by the group lead as not belonging to*
+*this group and has been removed.*
 
 *Rows left blank in the Institutional Email and Contribution columns reflect members whose email*
 *has not yet been confirmed, or who had not sent data as of submission time — stated plainly here*
-*rather than misrepresented.*
+*rather than misrepresented, per the group's decision to prioritize honesty.*
 
 ## 2. Data Provenance & Collection Method
 
