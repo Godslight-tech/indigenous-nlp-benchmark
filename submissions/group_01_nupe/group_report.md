@@ -20,7 +20,7 @@
 | Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com |  |
 | Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  |
 | Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
-| Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
+| Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) Confirmed |
 | Deborah Yusuf | U22/FNS/CSC/1052 |  |  |
 | Emmanuel Kelvin | U22/FEA/SED/1399 |  |  |
 | Fatima Bello | U22/FEA/SED/1060 |  |  |
