@@ -7,31 +7,44 @@
 
 | Name | Student ID | Institutional Email | Contribution |
 |---|---|---|---|
-| Uriah Tswanya (Group Lead) | U22/FNS/CSC/1274 | uriahs.tswanya@gmail.com | Group coordination; collected/verified all data batches; identified and excluded a suspected templated/non-authentic submission; built, debugged, and ran the full notebook (Parts 1-4); wrote and compiled group_report.md; performed all Git commits, branch management, push, and PR submission |
-| Allahyayi Dennis | U22/FNS/CSC/1353 | allahyayidennis1353@gmail.com | |
-| Abdulkadir Usman Kwatu | U22/FNS/CSC/1270 | Abdulkadirkwatu@gmail.com | |
-| Abdulkadir Idris Ibn | U22/FNS/CSC/1211 | shakallo04@gmail.com | |
-| Aliyu Ahmad | U22/FNS/CSC/1060 | aliyuahmadutme@gmail.com | |
-| Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com | |
-| Idris Umar Muhammed | U22/FNS/CSC/1305 | idrisumarmuhammed4@gmail.com | |
-| Nagenu Muhammed Yusuf | U22/FNS/CSC/1148 | nagenumuhammed@gmail.com | |
-| Habibu Musa | U22/FNS/CSC/1215 | musahabibu05@gmail.com | |
+| Abdullahi Abba Ladan | U22/FNS/CSC/1355 |  |  |
+| Adua Usman Mohammed | U22/FEA/SED/1079 |  |  |
+| Ahmad Aliyu | U22/FEA/SED/1294 |  |  |
+| Aliyu Ahmad | U22/FNS/CSC/1060 | aliyuahmadutme@gmail.com |  |
+| Aliyu Salihu Musa | U22/FNS/CSC/1159 |  |  |
+| Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
 | Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
-| Yahaya Aliyu Gabadna | U22/FNS/CSC/1337 | aliyugabadna881@gmail.com | |
-| Usman Abubakar Sadiq | U22/FNS/CSC/1259 | abbauthman2263@gmail.com | |
-| Jeremiah Jacob | U22/FNS/CSC/1227 | jerjacob558@gmail.com | |
+| Fatima Bello | U22/FEA/SED/1060 |  |  |
+| Haruna Suleiman | U22/FEA/SED/1197 |  |  |
+| Hassan Shehu | U22/FEA/SED/1431 |  |  |
+| Hassan Shehu | U22/FEA/SED/1413 |  |  |
 | Ibrahim Asmau Umar | U22/FNS/CSC/1153 | ibrahimasmau309@gmail.com | Data contributed: proverbs/phrases (early), plus 13 new phrases (final batch) |
-| Abdulhayyu Abubakar | U22/FNS/CSC/1022 | abdulhayyuabubakar630@gmail.com | Data contributed: 9 sentences (Ta Bida history summary, verified) |
-| Usman Musa | U22/FNS/CSC/1096 | uthmanyt@gmail.com | |
-| Yusuf Zayyad B | U22/FNS/CSC/1152 | yusufzayyadb0019@gmail.com | |
-| Yahaya Kudu Nagya | U22/FNS/CSC/1301 | Yahayanagya4@gmail.com | |
-| Ibrahim Hauwa | U22/FNS/CSC/1258 | ibhauwa05@gmail.com | |
-| Muhammad Ahmad Tijjani | U22/FNS/CSC/1216 | seedillah001@gmail.com | |
-| Matthew David Ochai | U22/FNS/CSC/1255 | davidmatthew8908@gmail.com | |
+| Ibrahim Hauwa | U22/FNS/CSC/1258 | ibhauwa05@gmail.com |  |
+| Idris Umar Muhammed | U22/FNS/CSC/1305 | idrisumarmuhammed4@gmail.com |  |
+| Isyaku Ibrahim Makun | U22/FEA/SED/1361 |  |  |
+| Mohammed Ahmed Liman | U22/FEA/SED/1245 |  |  |
+| Mohammed Idris | U22/FNS/CSC/1110 |  |  |
+| Muhammad Ahmad Tijjani | U22/FNS/CSC/1216 | seedillah001@gmail.com |  |
+| Nagenu Muhammed Yusuf | U22/FNS/CSC/1148 | nagenumuhammed@gmail.com |  |
+| Uriah Tswanya (Group Lead) | U22/FNS/CSC/1274 | uriahs.tswanya@gmail.com | Group Lead — coordination; collected/verified all data batches; identified and excluded a suspected templated/non-authentic submission; built, debugged, and ran the full notebook (Parts 1-4); wrote and compiled group_report.md; performed all Git commits, branch management, push, and PR submission |
+| Usman Abubakar Sadiq | U22/FNS/CSC/1259 | abbauthman2263@gmail.com |  |
+| Yahaya Kudu Nagya | U22/FNS/CSC/1301 | Yahayanagya4@gmail.com |  |
+| Yusuf Mohammed Yusuf | U23/FEA/SED/2010 |  |  |
 
-*Note to group lead: rows left blank in the Contribution column reflect members who had not sent*
-*data as of submission time — stated plainly here rather than misrepresented, per the group's*
-*decision to prioritize honesty.*
+*Note: this table lists only the 23 group members confirmed as Nupe by tribe on the official*
+*Group 01 roster, per instruction. One entry from an earlier draft, "Abdulkadir Usman Kwatu"*
+*(U22/FNS/CSC/1270), was confirmed by the group lead as not belonging to the group and has been*
+*removed entirely.*
+
+*Exception worth noting: Abdulhayyu Abubakar (U22/FNS/CSC/1022) is listed as Hausa by tribe on the*
+*official roster and is therefore not included in the table below, despite having contributed 9*
+*verified sentences (the Ta Bida history summary) to our corpus — see Section 2 for that data's*
+*provenance. His data remains in the dataset; only his membership row is affected by the strict*
+*Nupe-tribe filter applied here.*
+
+*Rows left blank in the Institutional Email and Contribution columns reflect members whose email*
+*has not yet been confirmed, or who had not sent data as of submission time — stated plainly here*
+*rather than misrepresented.*
 
 ## 2. Data Provenance & Collection Method
 
