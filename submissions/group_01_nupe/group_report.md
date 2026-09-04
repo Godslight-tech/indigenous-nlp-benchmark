@@ -26,7 +26,7 @@
 
 ### 1.3 Challenges & Solutions
 
-[Describe any challenges in data collection and how you addressed them]
+[Our major challenge was trying to navigate properly on github.]
 
 ---
 
