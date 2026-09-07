@@ -1,4 +1,4 @@
-# Group Report — Indigenous Language AI Benchmark
+hi# Group Report — Indigenous Language AI Benchmark
 
 **Group Number:** group_01
 **Language Track:** Nupe (Nupeci)
@@ -18,11 +18,18 @@
 | Aliyu Salihu Musa | U22/FNS/CSC/1159 |  |  |
 | Allahyayi Dennis | U22/FNS/CSC/1353 | allahyayidennis1353@gmail.com |  |
 | Aminu Abdullahi | U22/FNS/CSC/1354 | aminshakur27@gmail.com |  |
-| Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  |
+| Azozo Abubakar Banze | U22/FEA/SED/1154 |  |  | contribution to dataset for gbagyi {
+  "id": 1,
+  "language": "Gbagyi",
+  "text": "Adamulo",
+  "translation": "I am happy",
+  "audio": "audio/adamulo_001.wav",
+  "source": "native speaker"
+}
 | Baba Kabiru Alhaji | U22/FEA/SED/1347 |  |  |
-| Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) |
+| Bima Yusuf | U22/FNS/CSC/1299 | beemarh2theworld@gmail.com | Data contributed: 100 conversational phrases (two batches of 70 + 30) Confirmed |
 | Deborah Yusuf | U22/FNS/CSC/1052 |  |  |
-| Emmanuel Kelvin | U22/FEA/SED/1399 |  |  |
+| Emmanuel Kelvin | U22/FEA/SED/1399 |  emmanuelkelvin584@gmail.com |  |
 | Fatima Bello | U22/FEA/SED/1060 |  |  |
 | Habibu Musa | U22/FNS/CSC/1215 | musahabibu05@gmail.com |  |
 | Haruna Suleiman | U22/FEA/SED/1197 |  |  |
@@ -172,3 +179,9 @@ balance; (3) native-speaker review of every submitted batch before inclusion, wh
 applying only partway through collection after identifying one likely non-authentic submission;
 and (4) fuller participation from all 22 assigned group members, rather than the smaller subset
 who contributed data ahead of this deadline.
+improve data collection recommendations
+    Strengthen data collection practices
+
+Commit change 
+Data collection 
+data
